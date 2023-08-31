@@ -1,6 +1,6 @@
 # Olá Pessoal!:vulcan_salute::nerd_face:
 
-Meu nome é Breno Cardoso Senna e sou **Back-End Developer** desde 2023 mas estou inserido nesse mundo tecnológico desde 2018 onde ingressei na área de Robótica. Acabei de terminar a minha pós em Tecnologias Microsoft na Unicamp, faço tecnólogo em Back-End Developer na Cubos Academy e tecnólogo na Escola de Nuvem em Cloud Computing além de graduação em Ciências da Computação na Unesa.
+Meu nome é Breno Cardoso Senna e sou **Back-End Developer** desde 2023 mas estou inserido nesse mundo tecnológico desde 2018 onde ingressei na área de Robótica. Acabei de terminar a minha pós em Tecnologias Microsoft na Unicamp, faço tecnólogo em Back-End Developer na Cubos Academy e tecnólogo em Cloud Computing na Escola de Nuvem além de graduação em Ciências da Computação na Unesa.
 
 ## :see_no_evil:Para me encontrar:
 
